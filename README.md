@@ -1,5 +1,10 @@
+# preview #
+
+![png](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/about.png)
 
 # Spes #
+
+![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/peripherals.png)
 
 CPU : i7 9700K
 
@@ -24,14 +29,23 @@ Chassis : BeQuiet! Pure Base 600
 
 External graphics card (with headless iGPU enabled)
 
+![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/iGPU.png)
+
 Sound card (with device-id 0700000)
+
+![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/sound.png)
 
 
 Wifi、Bluetooth : normal, Handoff、Sidecar、Airdrop、Find functions flawlessly
 
 NVRAM : normal, able to boot via system preference -> startup disk
 
+
+![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/boot.png)
+
 Power : Native Power management enabled
+
+![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/power.png)
 
 # What is not working #
 
