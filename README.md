@@ -12,7 +12,7 @@ Motheroard : Gigabyte Aorus Elite Z390
 
 VGA : Gigabyte RX5700 XT GAMING OC
 
-RAM : 8Gx2 KLEVV CRAS X RGB 3200Mh
+RAM : 8Gx2 KLEVV CRAS X RGB 3200MHz
 
 Power : Corsair RM850x
 
