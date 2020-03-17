@@ -38,7 +38,7 @@ Sound card (with device-id 0700000)
 
 Wifi、Bluetooth : normal, Handoff、Sidecar、Airdrop、Find functions flawlessly
 
-NVRAM : normal, able to boot via system preference -> startup disk
+NVRAM : normal, able to select boot hardrive via system preference -> startup disk
 
 
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/boot.png)
