@@ -1,4 +1,4 @@
-# preview #
+# Preview #
 
 ![png](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/about.png)
 
