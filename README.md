@@ -29,7 +29,7 @@ Chassis : BeQuiet! Pure Base 600
 
 External graphics card (with headless iGPU enabled)
 
-![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/iGPU.png)
+![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/GPU.png)
 
 Audio (with soundcard device-id 0700000)
 
