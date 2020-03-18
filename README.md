@@ -1,5 +1,7 @@
 # Preview #
 
+**Note : This is not a tutorial. For detailed procedures, please visit [Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/) instead.**
+
 ![png](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/about.png)
 
 # Specs #
