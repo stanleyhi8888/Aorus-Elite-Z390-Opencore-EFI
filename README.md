@@ -31,7 +31,7 @@ External graphics card (with headless iGPU enabled)
 
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/iGPU.png)
 
-Sound card (with device-id 0700000)
+Audio (with soundcard device-id 0700000)
 
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/sound.png)
 
