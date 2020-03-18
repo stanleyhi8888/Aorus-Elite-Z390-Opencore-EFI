@@ -51,7 +51,7 @@ Power : Native Power management enabled
 
 # Issues #
 
-Sleep & wake : unable to change internal bluetooth header directly under the main XHCI controller, need to apply SSDT-GRPW.aml
+Sleep & wake : unable to change internal bluetooth header directly under the main XHCI controller, need to add [SSDT-GRPW.aml](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/EFI/OC/ACPI/SSDT-GPRW.aml)
 to make USB turned off in order to enable sleep (which means you gotta press the power button everytime to wake it)
 
 # Things to beware #
