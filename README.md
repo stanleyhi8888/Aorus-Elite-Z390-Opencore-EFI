@@ -2,7 +2,7 @@
 
 ![png](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/about.png)
 
-# Spes #
+# Specs #
 
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/peripherals.png)
 
