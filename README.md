@@ -65,7 +65,7 @@ to make USB turned off in order to enable sleep (which means you gotta press the
 + For every Opencore updates, be sure to use the [comparer](https://github.com/corpnewt/OCConfigCompare) to check if your config.plist meets the correct format.
 
 
-+ DevirtualiseMmio should be set to False, since the KASLR injection method can easily lead to booting failures. In fact, paired with [MemoryAllocation.efi](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/EFI/OC/Drivers/MemoryAllocation.efi), I am able to boot perfectly with **boot-args** _slide=1_.
++ **DevirtualiseMmio** should be set to False, since the KASLR injection method can easily lead to booting failures. In fact, paired with [MemoryAllocation.efi](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/EFI/OC/Drivers/MemoryAllocation.efi), I am able to boot perfectly with **boot-args** _slide=1_.
 
 # References #
 
