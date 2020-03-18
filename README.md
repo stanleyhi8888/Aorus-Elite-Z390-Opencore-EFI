@@ -54,6 +54,19 @@ Power : Native Power management enabled
 Sleep & wake : unable to change internal bluetooth header directly under the main XHCI controller, need to apply SSDT-GRPW.aml
 to make USB turned off in order to enable sleep (which means you gotta press the power button everytime to wake it)
 
+# Things to beware #
+
+
++ [MemoryAllocation.efi](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/EFI/OC/Drivers/MemoryAllocation.efi) is mandatory for all z390 boards. Without this, iGPU cannot be enabled properly.
+
++ CFG must be unlocked in advance. Since this board doesn't have any BIOS options related to it, I turned to [this approach](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/extras/msr-lock) instead.
+
+
++ For every Opencore updates, be sure to use the [comparer](https://github.com/corpnewt/OCConfigCompare) to check if your config.plist meets the correct format.
+
+
++ DevirtualiseMmio should be set to False, since the KASLR injection method can easily lead to booting failures. Instead, paired with [MemoryAllocation.efi](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/EFI/OC/Drivers/MemoryAllocation.efi), I am able to boot perfectly with **boot-args** _slide=1_.
+
 # References #
 
 [Best guide ever!](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
