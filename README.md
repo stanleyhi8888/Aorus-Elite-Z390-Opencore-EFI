@@ -23,7 +23,7 @@ Wifi & BT Module : BCM943602CS
 
 Cooler : Corsair H115i pro
 
-Hardrive : Micron MX500 500GB (For MacOS) & ADAT Sx8200pro 512GB (For Windows bootcamp)
+Hard drive : Micron MX500 500GB (For MacOS) & ADAT Sx8200pro 512GB (For Windows bootcamp)
 
 Chassis : BeQuiet! Pure Base 600
 
@@ -42,7 +42,7 @@ Wifi、Bluetooth : normal, Handoff、Sidecar、Airdrop、Find function flawlessl
 
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/airdrop.png)
 
-NVRAM : normal, available to select boot hardrive via system preference -> startup disk
+NVRAM : normal, available to select boot hard drive via system preference -> startup disk
 
 
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/boot.png)
