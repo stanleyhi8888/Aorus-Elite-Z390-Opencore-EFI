@@ -40,7 +40,7 @@ Wifi、Bluetooth : normal, Handoff、Sidecar、Airdrop、Find functions flawless
 
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/airdrop.png)
 
-NVRAM : normal, able to select boot hardrive via system preference -> startup disk
+NVRAM : normal, available to select boot hardrive via system preference -> startup disk
 
 
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/boot.png)
