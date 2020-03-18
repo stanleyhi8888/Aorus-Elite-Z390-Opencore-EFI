@@ -38,7 +38,7 @@ Audio (with soundcard device-id 0700000)
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/sound.png)
 
 
-Wifi、Bluetooth : normal, Handoff、Sidecar、Airdrop、Find functions flawlessly
+Wifi、Bluetooth : normal, Handoff、Sidecar、Airdrop、Find function flawlessly
 
 ![image](https://github.com/stanleyhi8888/Aorus-Elite-Z390-Opencore-EFI/blob/master/pics/airdrop.png)
 
